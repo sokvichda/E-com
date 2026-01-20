@@ -9,4 +9,3 @@
     with Laravel.</p>
 </body>
 </html>
-
